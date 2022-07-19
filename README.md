@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🌱 I’m currently learning Django Framework
-- 👯 I’m looking to collaborate on any project requiring django 
-- 💬 Ask me about python, javascript and java
+- 🌱 I’m currently learning React library
+- 👯 I’m looking to collaborate on any project requiring the react framework and nodeJS
+- 💬 Ask me about python and javascript
 - 📫 How to reach me: bisquay61@gmail.com
 - ⚡ Fun fact: I love watching anime
