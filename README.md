@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋 , I am Bismark Quartey<br><br><!--<br>**Aeswolf/Aeswolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ...<br>- 😄 Pronouns: ...<br>- 🤔 I’m looking for help with ...<br>--><br><br>- 🌱 I’m currently learning ASP.NET Core<br>- 👯 I’m looking to collaborate on any project requiring ASP.NET Core, Golang and React.<br>- 💬 Ask me about React, Golang and ASP.NET Core.<br>- 📫 How to reach me: bisquay61@gmail.com<br>- ⚡ Fun fact: I love reading manga and watching anime<br>
+### Hi there 👋 , I am Bismark Quartey<br><br><!--<br>**Aeswolf/Aeswolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ...<br>- 😄 Pronouns: ...<br>- 🤔 I’m looking for help with ...<br>--><br><br>- 🌱 I’m currently learning ASP.NET Core<br>- 👯 I’m looking to collaborate on any project requiring ASP.NET Core, and Golang.<br>- 💬 Ask me about Golang and ASP.NET Core.<br>- 📫 How to reach me: bisquay61@gmail.com<br>- ⚡ Fun fact: I love reading manga and watching anime<br>
 
 
 ## 🌐 Socials:
